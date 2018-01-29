@@ -10,3 +10,22 @@
     font-weight: bold;
     font-size: 16px;
 }
+.changing_image {
+	height: 20em;
+	width: 20em;
+}
+
+/*.img{
+    position: relative;
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+*//*$document().ready(function()
+{
+	$('#slider_image').cycle('fade');
+	}
+);*/
